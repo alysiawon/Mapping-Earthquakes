@@ -12,7 +12,7 @@ The data preparation utilizes Leaflet.js, Javascript, HTML and CSS to analyze an
 
 The webpage is created by utilizing various geoJSON  files online to make an <a href="static/js/challenge_logic.js">application</a>. The webpage also utilizes <a href="static/css/style.css">CSS</a> to make it easy to read and more aesthetic.  
 
-<img src="Earthquake_Challenge/Analysis/sample.png" width="450">
+<img src="Earthquake_Challenge/Analysis/sample.png" width="700">
 
 ### Overview of Map Webpage
 
