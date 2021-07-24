@@ -8,9 +8,9 @@ This analysis will focus creating a map to see the earthquake data in relation t
 
 ## Results
 
-The data preparation utilizes Leaflet.js, Javascript, HTML and CSS to analyze and create map on a webpage. The webpage is generated on the <a href="index.html">index HTML webpage file</a>. 
+The data preparation utilizes Leaflet.js, Javascript, HTML and CSS to analyze and create map on a webpage. The webpage is generated on the <a href="Earthquake_Challenge/index.html">index HTML webpage file</a>. 
 
-The webpage is created by utilizing various geoJSON  files online to make an <a href="static/js/challenge.logic.js">application</a>. The webpage also utilizes <a href="static/css/style.css">CSS</a> to make it easy to read and more aesthetic.  
+The webpage is created by utilizing various geoJSON  files online to make an <a href="Earthquake_Challenge/static/js/challenge.logic.js">application</a>. The webpage also utilizes <a href="Earthquake_Challenge/static/css/style.css">CSS</a> to make it easy to read and more aesthetic.  
 
 <img src="Earthquake_Challenge/Analysis/sample.png" width="450">
 
