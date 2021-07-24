@@ -10,11 +10,7 @@ This analysis will focus creating a map to see the earthquake data in relation t
 
 The data preparation utilizes Leaflet.js, Javascript, HTML and CSS to analyze and create map on a webpage. The webpage is generated on the <a href="Earthquake_Challenge/index.html">index HTML webpage file</a>. 
 
-<<<<<<< HEAD
-The webpage is created by utilizing various geoJSON  files online to make an <a href="static/js/challenge_logic.js">application</a>. The webpage also utilizes <a href="static/css/style.css">CSS</a> to make it easy to read and more aesthetic.  
-=======
 The webpage is created by utilizing various geoJSON  files online to make an <a href="Earthquake_Challenge/static/js/challenge.logic.js">application</a>. The webpage also utilizes <a href="Earthquake_Challenge/static/css/style.css">CSS</a> to make it easy to read and more aesthetic.  
->>>>>>> 089bc7e267beb0560bc4f633f10a1e33d3a5c087
 
 <img src="Earthquake_Challenge/Analysis/sample.png" width="700">
 
@@ -38,9 +34,9 @@ The major earthquake data showcases earthquake data for earthquakes with a 4.5+ 
 
 The map also allows the end user to view the map in 3 different styles:
 
-    1. Streets
-    2. Satellite
-    3. Dark
+1. Streets
+2. Satellite
+3. Dark
 
 
 
